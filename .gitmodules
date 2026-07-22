@@ -1,0 +1,21 @@
+[submodule "3DSimulator-Singapore"]
+	path = 3DSimulator-Singapore
+	url = https://github.com/bizshuk/3DSimulator-Singapore.git
+[submodule "game-architect"]
+	path = game-architect
+	url = https://github.com/bizshuk/game-architect.git
+[submodule "game-direction"]
+	path = game-direction
+	url = https://github.com/bizshuk/game-direction.git
+[submodule "game_engine-maze"]
+	path = game_engine-maze
+	url = https://github.com/bizshuk/game_engine-maze.git
+[submodule "game_engine"]
+	path = game_engine
+	url = https://github.com/bizshuk/game_engine.git
+[submodule "lineage"]
+	path = lineage
+	url = https://github.com/bizshuk/lineage.git
+[submodule "map_generator"]
+	path = map_generator
+	url = https://github.com/bizshuk/map_generator.git
