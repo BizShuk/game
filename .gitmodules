@@ -26,3 +26,7 @@
 	path = map_generator
 	url = https://github.com/bizshuk/map_generator.git
 	branch = master
+[submodule "gameboy-rpg"]
+	path = gameboy-rpg
+	url = https://github.com/bizshuk/gameboy-rpg.git
+	branch = master
