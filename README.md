@@ -53,7 +53,7 @@
     └── occupations_roles.md # 職業與定位
 ```
 
-> 本樹只涵蓋文件研究子域；同層另有 `game_engine/`、`game_engine-maze/`、`map_generator/`、`3DSimulator-Singapore/`、`codex-gamestudio-skill/`、`lineage/` 等實作型目錄，尚未納入本導覽。
+> 本樹只涵蓋文件研究子域；同層另有 `3D-game-prototype/`、`maze/`、`map_generator/`、`3DSimulator-Singapore/`、`codex-gamestudio-skill/`、`lineage/` 等實作型目錄，尚未納入本導覽。
 
 另有 `docs/specs/` 存放已實作計畫轉換之規格文件（如 `system_mechanism_guidelines_spec.md`：機制指南的結構、模板骨架與維護慣例）。
 
