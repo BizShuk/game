@@ -30,3 +30,7 @@
 	path = gameboy-rpg
 	url = https://github.com/bizshuk/gameboy-rpg.git
 	branch = master
+[submodule "history_map"]
+	path = history_map
+	url = https://github.com/bizshuk/history_map
+	branch = master
