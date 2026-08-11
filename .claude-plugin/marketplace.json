@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "bizshuk-game",
+  "owner": {
+    "name": "Shuk Liu",
+    "email": "biz.shuk@gmail.com",
+    "url": "https://github.com/bizshuk"
+  },
+  "metadata": {
+    "description": "遊戲研究容器的 plugin marketplace：以子專案為單位發布可獨立安裝的 Claude Code plugin",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "game-architect",
+      "source": "./game-architect",
+      "description": "遊戲架構知識庫：通用機制設計與調參、天堂 Clone 前瞻設計規格、契約驅動 AI 美術生產線",
+      "category": "game-design",
+      "keywords": [
+        "game-design",
+        "game-mechanics",
+        "balancing",
+        "economy-sink",
+        "mmorpg",
+        "art-pipeline"
+      ]
+    },
+    {
+      "name": "game-direction",
+      "source": "./game-direction",
+      "description": "遊戲發展方向研究：遊戲類型選型、活動類型映射、職業與社會角色設定參考",
+      "category": "game-design",
+      "keywords": [
+        "game-genres",
+        "game-direction",
+        "activity-mapping",
+        "npc-roles",
+        "worldbuilding"
+      ]
+    }
+  ]
+}
