@@ -7,7 +7,7 @@
 ## 目錄結構 (Directory Structure)
 
 ```tree
-/Users/shuk/projects/game/
+game/
 ├── README.md                # 本檔：遊戲研究導覽
 ├── game-architect/          # 遊戲架構知識庫 (獨立 repo：BizShuk/game-architect)
 │   ├── README.md            # 子域入口、內容索引與依賴方向
@@ -53,7 +53,7 @@
     └── occupations_roles.md # 職業與定位
 ```
 
-> 本樹只涵蓋文件研究子域；同層另有 `3D-game-prototype/`、`maze/`、`map_generator/`、`3DSimulator-Singapore/`、`codex-gamestudio-skill/`、`lineage/` 等實作型目錄，尚未納入本導覽。
+> 本樹只涵蓋文件研究子域；同層另有 `3D-game-prototype/`、`3DSimulator-Singapore/`、`gameboy-rpg/`、`history_map/`（submodule 未初始化）、`lineage/`、`lineage-v380/`（一般目錄，非 submodule）、`map_generator/`、`maze/` 等實作型專案，以及分類層自身的 `skills/codex-gamestudio-skill/` 與 `.claude-plugin/`，尚未納入本導覽。
 
 另有 `docs/specs/` 存放已實作計畫轉換之規格文件（如 `system_mechanism_guidelines_spec.md`：機制指南的結構、模板骨架與維護慣例）。
 

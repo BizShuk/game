@@ -11,7 +11,7 @@
 ## 專案結構 (Project Structure)
 
 ```tree
-/Users/shuk/projects/game/
+game/
 ├── README.md                # 遊戲專案業務導覽與業務領域索引
 ├── CLAUDE.md                # 專案技術脈絡 (you are here)
 ├── game-architect/          # 遊戲架構知識庫 (nested repo：BizShuk/game-architect)
@@ -61,6 +61,8 @@
 │       └── system_mechanism_guidelines_spec.md
 └── plans/                   # 專案內規劃文件 (實作後轉為 docs/specs/)
 ```
+
+> 上樹僅涵蓋文件研究子域且部分已過時：分類層目前實際另有 `3D-game-prototype/`、`3DSimulator-Singapore/`、`gameboy-rpg/`、`history_map/`（submodule 未初始化）、`lineage/`、`lineage-v380/`（一般目錄，非 submodule，未登記於 `.gitmodules`）、`map_generator/`、`maze/` 八個實作型專案，以及分類層自身的 `skills/codex-gamestudio-skill/` 與 `.claude-plugin/marketplace.json`；`docs/` 與 `plans/` 在分類層已不存在（`system_mechanism_guidelines_spec.md` 現位於 `game-architect/mechanisms/`）。每個專案自帶 unified interface，分類層不放程式碼；取得未初始化的專案用 `git submodule update --init <name>`。
 
 ## 關鍵決策 (Key Decisions)
 
