@@ -13,7 +13,7 @@
 ```tree
 game/
 ├── README.md                # 遊戲專案業務導覽與業務領域索引
-├── CLAUDE.md                # 專案技術脈絡 (you are here)
+├── AGENTS.md                # 專案技術脈絡 (you are here)
 ├── game-architect/          # 遊戲架構知識庫 (nested repo：BizShuk/game-architect)
 │   ├── README.md            # 子域入口、內容索引與依賴方向
 │   ├── guideline.md         # 遊戲開發完整大綱 (機制檔的章節錨點來源)
