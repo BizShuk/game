@@ -1,6 +1,8 @@
 ---
 name: gamestudio
 description: Use as the default full-game workflow when Codex should plan, build, debug, polish, QA, or finish a game project in one conversation when feasible, especially Godot, Unity, Phaser, WebGL, 2D prototypes, gameplay systems, maps, sprites, animation sheets, asset integration, long-running phase handoff, or repeated bug investigation. Combines compact game-studio roles, minimal-solution discipline, 2D sprite/map asset routing, CODEX_HANDOFF.md continuity, and DEBUG_HANDOFF.md root-cause stop rules.
+metadata:
+    source: https://github.com/bizshuk/game
 ---
 
 # Game Studio
